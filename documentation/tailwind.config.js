@@ -7,7 +7,10 @@ module.exports = {
     container: false,
   },
   darkMode: ["class", '[data-theme="dark"]'],
-  content: ["./src/**/*.{jsx,tsx,html}"],
+  content: [
+    './src/**/*.{js,jsx,ts,tsx,mdx}',
+    './docs/**/*.{md,mdx}',
+  ],
   theme: {
     extend: {
     },
