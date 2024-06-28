@@ -9,21 +9,21 @@ import tailwindPlugin from "./plugins/tailwind-config.cjs";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'big hummingbird',
+  tagline: 'hum hum hum',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://www.lyra-ml.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/LyraML-documentation',
+  baseUrl: '/documentation',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'LyraML-documentation', // Usually your repo name.
-  deploymentBranch: 'deployment',
+  organizationName: 'bighummingbird', // Usually your GitHub org/user name.
+  projectName: 'documentation', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
