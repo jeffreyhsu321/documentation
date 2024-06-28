@@ -1,6 +1,6 @@
 # Lyra-ML-documentation
 
-Hosted on https://jennifer0120.github.io/LyraML-documentation/
+Hosted on https://big-hummingbird.github.io/documentation/
 
 #### `main`
 
@@ -14,7 +14,7 @@ DO NOT MANUALLY PUSH TO THIS BRANCH
 
 ## Build and Deploy
 
-While in `main`, run `npm run deploy` to build onto `gh-pages` and automatically deploy to https://jennifer0120.github.io/LyraML-documentation/
+While in `main`, run `npm run deploy` to build onto `gh-pages` and automatically deploy.
 
 ## Local Preview
 
